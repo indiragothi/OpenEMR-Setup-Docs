@@ -47,7 +47,7 @@ This guide provides step-by-step instructions for installing OpenEMR on a Window
 
 1. Open **XAMPP Control Panel**
 2. Click **Config** next to Apache, then open `php.ini`
-3. Scroll to the end of the file and paste the recommended PHP settings from OpenEMR documentation
+3. Scroll to the end of the file and paste the recommended PHP settings from OpenEMR documentation [OpenEMR Docs](https://www.open-emr.org/wiki/index.php/FAQ#What_are_the_correct_PHP_settings_.28can_be_found_in_the_php.ini_file.29.3F)
 4. Save the file
 5. Stop and restart Apache
 
@@ -75,7 +75,7 @@ This guide provides step-by-step instructions for installing OpenEMR on a Window
 If you skipped configuring PHP earlier, do it now:
 1. In the **XAMPP Control Panel**, click **Config** next to Apache, then open `php.ini`.
 2. Scroll to the end of the file.
-3. Paste the **recommended PHP settings** from the OpenEMR official documentation.
+3. Paste the **recommended PHP settings** from the OpenEMR official documentation. [OpenEMR Docs](https://www.open-emr.org/wiki/index.php/FAQ#What_are_the_correct_PHP_settings_.28can_be_found_in_the_php.ini_file.29.3F)
 4. Save the file and restart Apache.
 
 ### 9. Step 5 – Configure Apache Web Server (if needed)
