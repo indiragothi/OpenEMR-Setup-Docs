@@ -1,6 +1,6 @@
 # OpenEMR Installation Guide for Windows
 
-![OpenEMR Logo](https://www.open-emr.org/images/logo.png)
+![OpenEMR Logo](openemr-logo.png)
 
 This guide provides step-by-step instructions for installing OpenEMR on a Windows system using XAMPP.
 
@@ -125,9 +125,6 @@ If you encounter any issues during installation:
 ## Additional Resources
 
 - [OpenEMR Official Documentation](https://www.open-emr.org/wiki/index.php/OpenEMR_Wiki_Home_Page)
-- [OpenEMR Forums](https://community.open-emr.org/)
 - [OpenEMR GitHub Repository](https://github.com/openemr/openemr)
 
-## License
-
-OpenEMR is licensed under the GNU General Public License (GPL)
+ 
